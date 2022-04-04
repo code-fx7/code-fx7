@@ -1,3 +1,3 @@
 # Hey, I am Christoph
 
-[mailto](mailto:code-fx@mail.de)
+[code-fx@mail.de](mailto:code-fx@mail.de)
