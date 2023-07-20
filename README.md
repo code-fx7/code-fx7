@@ -1,10 +1,10 @@
-# Hey, I am Christoph
+# 👋 Hi, I´m Christoph
 
-##### I am a Junior Webdeveloper.
+##### 🌱 I´m a Junior Webdeveloper.
 
-##### I would be happy if you would contact me!
+##### 📫 I would be happy if you would contact me!
 
-[code-fx@mail.de](mailto:code-fx@mail.de)
+ [code-fx@mail.de](mailto:code-fx@mail.de)
 
 ---
 ## Languages and Tools
