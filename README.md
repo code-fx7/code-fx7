@@ -1,6 +1,6 @@
 # Hey, I am Christoph
 
-##### I am a Junior Full Stack Webdeveloper with MERN-Stack.
+##### I am a Junior Webdeveloper.
 
 ##### I would be happy if you would contact me!
 
