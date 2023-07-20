@@ -1,6 +1,6 @@
-# 👋 Hi, I´m Christoph
+# 👋 Hi, I`m Christoph
 
-##### 🌱 I´m a Junior Webdeveloper.
+##### 🌱 I`m a Junior Webdeveloper.
 
 ##### 📫 I would be happy if you would contact me!
 
