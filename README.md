@@ -7,7 +7,7 @@
 [code-fx@mail.de](mailto:code-fx@mail.de)
 
 ---
-## Languages and Tools:
+## Languages and Tools
 <p align="left">
     <a href="https://angular.io/" target="_blank" > <img src="https://angular.io/assets/images/logos/angular/angular.svg" style="width: 50px" /> </a>
     <a href="https://ngrx.io/" target="_blank" > <img src="https://ngrx.io/assets/images/badge.svg" style="width: 45px"/> </a>
